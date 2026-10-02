@@ -3,6 +3,8 @@
 
 #include "CharacterBase.h"
 
+#include "AtributeSets/BasicAttributeSet.h"
+
 // Sets default values
 ACharacterBase::ACharacterBase()
 {
@@ -13,6 +15,9 @@ ACharacterBase::ACharacterBase()
 	AbilitySystemComponent = CreateDefaultSubobject<UAbilitySystemComponent>(TEXT("AbilitySystemComponent"));
 	AbilitySystemComponent->SetIsReplicated(true);
 	AbilitySystemComponent->SetReplicationMode(ASCReplicationMode);
+	
+	// Add basic attribute set
+	BasicAttributeSet = CreateDefaultSubobject<UBasicAttributeSet>(TEXT("BasicAttributeSet"));
 
 }
 
