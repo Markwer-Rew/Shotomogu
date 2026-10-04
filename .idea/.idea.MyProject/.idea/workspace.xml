@@ -20,12 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="784e7c12-c0b6-47d2-b970-3d0d5f494995" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Source/MyProject/AtributeSets/BasicAttributeSet.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/MyProject/AtributeSets/BasicAttributeSet.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MyProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MyProject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Characters/BP_Player_Base.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Characters/BP_Player_Base.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/MyProject/CharacterBase.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/MyProject/CharacterBase.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/MyProject/CharacterBase.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/MyProject/CharacterBase.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/MyProject/AtributeSets/BasicAttributeSet.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/MyProject/AtributeSets/BasicAttributeSet.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/MyProject/AtributeSets/BasicAttributeSet.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/MyProject/AtributeSets/BasicAttributeSet.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -230,6 +227,8 @@
       <workItem from="1790923610519" duration="88000" />
       <workItem from="1790926358489" duration="2150000" />
       <workItem from="1790964583579" duration="4467000" />
+      <workItem from="1791144377002" duration="829000" />
+      <workItem from="1791145283322" duration="768000" />
     </task>
     <servers />
   </component>
