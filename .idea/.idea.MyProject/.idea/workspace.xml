@@ -21,9 +21,17 @@
   <component name="ChangeListManager">
     <list default="true" id="784e7c12-c0b6-47d2-b970-3d0d5f494995" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MyProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MyProject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Automation_MyProject.slnx" beforeDir="false" afterPath="$PROJECT_DIR$/Automation_MyProject.slnx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyProject.slnx" beforeDir="false" afterPath="$PROJECT_DIR$/MyProject.slnx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/MyProject/MyProject.Build.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/MyProject/MyProject.Build.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Abilities/GA_Clones.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Abilities/GA_Clones.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Abilities/GA_Dash.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Abilities/GA_Dash.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Abilities/GA_ElectroSphere.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Abilities/GA_ElectroSphere.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Abilities/GA_Emi.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Abilities/GA_Emi.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Abilities/GA_Granade.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Abilities/GA_Granade.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Abilities/GA_Hook.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Abilities/GA_Hook.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Abilities/GA_Shoot.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Abilities/GA_Shoot.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Abilities/GA_Teleport.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Abilities/GA_Teleport.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/6Q/ECG58DA40UUS73OJA42ZND.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/6Q/ECG58DA40UUS73OJA42ZND.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/DC/XH5IL32SKUV71K4IWCNB8J.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/DC/XH5IL32SKUV71K4IWCNB8J.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/9H/4BULNR4NFQR0XD9VE7G7DK.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/9H/4BULNR4NFQR0XD9VE7G7DK.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -241,6 +249,7 @@
       <workItem from="1794256854203" duration="133000" />
       <workItem from="1794258497436" duration="520000" />
       <workItem from="1794259241763" duration="1129000" />
+      <workItem from="1794334501595" duration="1440000" />
     </task>
     <servers />
   </component>
